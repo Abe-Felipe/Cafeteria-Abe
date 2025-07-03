@@ -13,7 +13,6 @@
   "dependencies": {
     "axios": "^1.10.0",
     "bootstrap": "^5.3.7",
-    "cypress": "^14.5.0",
     "prop-types": "^15.8.1",
     "react": "^19.1.0",
     "react-bootstrap": "^2.10.10",
@@ -25,6 +24,7 @@
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "@vitejs/plugin-react": "^4.5.2",
+    "cypress": "^14.5.0",
     "eslint": "^9.29.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
